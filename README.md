@@ -10,6 +10,6 @@ O Instagram é uma rede social online de compartilhamento de fotos e vídeos ent
 
 O Instagram foi criado por Kevin Systrom e Mike Krieger e lançado em outubro de 2010. O serviço rapidamente ganhou popularidade, com mais de 100 milhões de usuários ativos em abril de 2012. O Instagram é distribuído através da Apple App Store, Google Play e Windows Phone Store.O suporte foi originalmente disponível apenas para o iPhone, iPad e iPod Touch; em abril de 2012 foi adicionado suporte para Android's com câmera. Aplicativos de terceiros do Instagram estão disponíveis para BlackBerry 10 e dispositivos Nokia Symbian. Em 22 de outubro de 2013, durante o Nokia World em Abu Dhabi, Emirados Árabes Unidos, Kevin Systrom confirmou que o app oficial do Instagram estaria disponível nas próximas semanas para o Windows Phone. Em 21 de novembro de 2013, o oficial Instagram Beta para Windows Phone foi lançado para o Windows Phone 8 permitindo que o usuário do Windows Phone obtenha um acesso mais rápido aos serviços do Instagram, embora o aplicativo ainda esteja em desenvolvimento com a falta de gravação de vídeo e captura de imagem por meio de aplicativo. O serviço foi adquirido pelo Facebook em abril de 2012 por cerca de 1 bilhão de dólares em dinheiro e ações.
 
-[Site](https://www.instagram.com/accounts/login/)
+[Site - Clique aqui](https://www.instagram.com/accounts/login/)
 
 Fonte: Wikipedia
